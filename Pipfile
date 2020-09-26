@@ -17,7 +17,7 @@ joblib = "*"
 numpy = "*"
 en-core-web-sm = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz"}
 scikit-learn = "*"
-tensorflow = "==1.14.0"
+tensorflow = "==1.15.4"
 srsly = "==1.0.1"
 flask-cors = "*"
 flask = "*"
